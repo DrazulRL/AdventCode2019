@@ -1,0 +1,9 @@
+opcode 1 is addition 
+    if [opcode 1]:
+    add value store in [position x1] with value stored in [position x2]
+2 is multiplication
+    if [opcode 2]:
+    multiply value store in [position x1 with value stored in [position x2]
+99 is program end 
+    if [99]:
+    recall function and proceed along line to next opcode
